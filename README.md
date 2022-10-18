@@ -33,7 +33,7 @@
 * UX & minimal UI design skills to prototype
 * Minimal understanding of how product analytics can inpact roadmap decisions
 * Mentor current Product Managers or people interested in breaking into the role
-* I try and not preasure eng teams with delivery dates to give them creative freedom to explore solutions
+* I try and not pressure eng teams with delivery dates to give them creative freedom to explore solutions
 
 ### 🌩️ - Product Skills I Want to Imporve
 * Better UI understanding & principles to follow
